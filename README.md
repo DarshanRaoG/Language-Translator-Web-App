@@ -12,6 +12,8 @@
   * Telugu
 
 * More languages can be added easily by modifying index.html
+  * For example, to add Polish, use this:<br>
+    ```<option value="pl">Polish</option>```
   
 * Uses Google Translate API (free version)
 
