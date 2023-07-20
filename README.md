@@ -19,9 +19,9 @@
 
 # Output (Desktop View)
 <p align="center">
-<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output1.JPG" width="90%" >
-<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output2.jpg" width="90%" >
-<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output25.png" width="90%" >
+<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output1.JPG" width="70%" >
+<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output2.jpg" width="70%" >
+<img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output25.png" width="70%" >
 </p>
 
 # Output (Mobile View)
