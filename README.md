@@ -17,6 +17,8 @@
   
 * Uses Google Translate API (free version)
 
+* Try it out! ---> [Click Me](https://codepen.io/Troy_8D/full/jOQZQme)
+
 # Output (Desktop View)
 <p align="center">
 <img src="https://github.com/DarshanRaoG/Language-Translator-Web-App/blob/main/img/output1.JPG" width="70%" >
