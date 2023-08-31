@@ -106,6 +106,7 @@ resize: none;
 .switch-button:hover,#translate-button:hover,#clear-button:hover{
   opacity: 0.8;
   transform: scale(1.05);
+  cursor:pointer;
 }
 .switch-button:active{
   opacity:1;
